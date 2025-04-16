@@ -9,4 +9,4 @@ Uma tela de formulário básico criada para praticar novos conceitos e práticas
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+   git clone https://github.com/rhuanbrasil/formulario.git
